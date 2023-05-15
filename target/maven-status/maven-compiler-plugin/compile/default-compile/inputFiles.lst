@@ -4,14 +4,18 @@ D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Sec
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\dto\dtoHys.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Service\UsuarioService.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\BaseApplication.java
+D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\controler\CProyecto.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\entity\Persona.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\repository\RExperiencia.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Service\UserDetailsImpl.java
+D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\entity\Proyecto.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\repository\Rhys.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Entity\Rol.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\entity\Experiencia.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Enums\RolNombre.java
+D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\repository\RProyecto.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Repository\iRolRepository.java
+D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\dto\dtoProyecto.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Controller\Mensaje.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Security\Dto\LoginUsuario.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\entity\Educacion.java
@@ -24,6 +28,7 @@ D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\Sec
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\dto\dtoEducacion.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\controler\CExperiencia.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\service\SEducacion.java
+D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\service\SProyecto.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\service\PersonaService.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\dto\dtoPersona.java
 D:\1-Nueva Base de Datos\Portfolio-BackEnd-main\src\main\java\com\datos\base\controler\PersonaController.java
